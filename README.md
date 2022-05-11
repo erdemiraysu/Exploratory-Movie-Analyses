@@ -27,9 +27,9 @@ In the folder zippedData you will see:
 
 ## Results and Conclusions
 ***
-WHICH GENRE?
-* With low-medium budget ($4.5-16M), make movies of Mystery and Horror. They bring close to 300% ROI but about 20-25M $ in profit.
-* With high budget (>$40M), make movies of Animation, Adventure and Sci-Fi. They bring close to 200% ROI but about 200-250 M $ in profit.
+WHAT GENRES OF MOVIES TO MAKE?
+* With low-medium budget ($4.5-16M), make movies of Mystery and Horror. They bring more than 300% ROI but about $25-30M in profit.
+* With high budget (>$40M), make movies of Animation, Adventure and Sci-Fi. They bring close to 200% ROI but close to $200-250 M in profit.
 ![Barplot_RoibyBudget_2](https://user-images.githubusercontent.com/61121277/167764190-3d3c98ea-467d-4f43-af94-1fe03a88f232.png)
 ![Barplot_RoibyBudget_4](https://user-images.githubusercontent.com/61121277/167764199-a1bfa278-e86c-43ba-ad83-46d8816ec952.png)
 
@@ -56,8 +56,8 @@ For the highest Roi and Profit target **120-140 min** length for the least risk
 * Gather more information about Microsoft’s allocated budget to be able to provide more sensitive suggestions.
 
 ***
-* The full analysis in the Jupyter Notebook. 
-* Summary of the findings are in this presentation. 
+* The full analysis in the Jupyter Notebook - MovieProject_Notebook.ipynb. 
+* Summary of the findings are in the presentation.pdf. 
 
 ## Repository Structure
     .
