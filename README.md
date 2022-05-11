@@ -28,26 +28,25 @@ In the folder zippedData you will see:
 ## Results and Conclusions
 ***
 WHAT GENRES OF MOVIES TO MAKE?
-* With low-medium budget ($4.5-16M), make movies of Mystery and Horror. They bring more than 300% ROI but about $25-30M in profit.
-* With high budget (>$40M), make movies of Animation, Adventure and Sci-Fi. They bring close to 200% ROI but close to $200-250 M in profit.
 ![Barplot_RoibyBudget_2](https://user-images.githubusercontent.com/61121277/167764190-3d3c98ea-467d-4f43-af94-1fe03a88f232.png)
 ![Barplot_RoibyBudget_4](https://user-images.githubusercontent.com/61121277/167764199-a1bfa278-e86c-43ba-ad83-46d8816ec952.png)
+* With low-medium budget ($4.5-16M), make movies of Mystery and Horror. They bring more than 300% ROI but about $25-30M in profit.
+* With high budget (>$40M), make movies of Animation, Adventure and Sci-Fi. They bring close to 200% ROI but close to $200-250 M in profit.
 
 ***
 WHEN TO RELEASE THE MOVIE?
-For high ROI and profit release the movie in **November**. Summer months of **June and July** are also good options. 
-![Barplot_ReleaseMonth](https://user-images.githubusercontent.com/61121277/167764690-988e8c47-3b7d-4a12-bc6e-35667db1f45c.png)
+![Barplot_ReleaseMonth](https://user-images.githubusercontent.com/61121277/167883905-08beae55-d26d-4bd2-b65f-a32693c1779b.png)
+For highest ROI and profit release the movie in **November**. Summer months of **June and July** are also good options. 
 
 ***
 WHICH DIRECTORS TO WORK WITH?
-![Barplot_Directors](https://user-images.githubusercontent.com/61121277/167765019-64ce3377-c119-4c17-bd20-3f89ff915853.png)
-For smaller budget movies where we care more about ROI invest on **Chris Lofing** and **Travis Cluff**
-For bigger budget movies where we care more about PROFIT invest on **Atsushi Wada** and **Kevin Lincoln** 
+![Barplot_Directors](https://user-images.githubusercontent.com/61121277/167884337-7af1c31c-3f86-4302-a8ff-86ae26c860b7.png)
+For highest ROI and Profit invest on **James Wan, Pierre Coffin, Chris Renaud, Bryan Singer**.
 
 ***
 HOW LONG SHOULD THE MOVIE BE?
-For the highest Roi and Profit target **120-140 min** length for the least risk.
 ![Barplot_RuntimeMinutes](https://user-images.githubusercontent.com/61121277/167764816-28cd66d8-e0bc-43f1-a5bf-7a8b38f56ce7.png)
+For the highest Roi and Profit target **120-140 min** length for the least risk.
 
 ## Limitations and Improvements
 ***
