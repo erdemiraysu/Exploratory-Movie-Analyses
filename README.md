@@ -60,11 +60,10 @@ For the highest Roi and Profit target **120-140 min** length for the least risk
 
 ## Repository Structure
     .
-    ├── zippedData
+    ├── images 
+    ├── zippedData 
     ├── MovieProject_Notebook.ipynb                        
-    ├── README.md                    
-    ├── movie_data_erd.jpeg                 
-    ├── presentation.pdf                
-    ├── gitbhub.pdf
-    └── MovieProject_Notebook.pdf
+    ├── presentation.pdf                                             
+    ├── README.md 
+    └── movie_data_erd.jpeg   
 
