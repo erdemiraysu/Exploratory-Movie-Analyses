@@ -7,12 +7,12 @@ This project analyzes movie data to provide insights and recommendations about t
 ***
 What type of movies should Microsoft create?
 
- Find a way to assess movie “profitability”.
- Explore characteristics of past movies in relation to profitability: 
- * What genres of movies to make?
- * Which directors to work with?
- * When to release the movie?
- * Which movie length to focus on?
+ * Find a way to assess movie “profitability”.
+ * Explore characteristics of past movies in relation to profitability: 
+     - What genres of movies to make?
+     - Which directors to work with?
+     - When to release the movie?
+     - Which movie length to focus on?
 
 ## Data
 ***
@@ -23,7 +23,7 @@ In the folder zippedData you will see:
 ## Methods
 *** 
 * Derive **profit** (cost minus budget) and **return on investment** (profit/cost times 100) as means to assess "profitability". 
-* Use **Median** instead of Mean due to the skewness of the distributions towards right and the presence of outlier movies with extreme success.
+* Use **Median** instead of Mean due to the skewness of the distributions and the presence of outlier movies with extreme success.
 
 ## Results and Conclusions
 ***
