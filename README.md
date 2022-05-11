@@ -16,7 +16,8 @@ What type of movies should Microsoft create?
 
 ## Data
 ***
-In the folder zippedData you will see:
+In the folder [zippedData](https://github.com/erdemiraysu/Movies_EDA_Project1/tree/master/zippedData) you will see:
+
 * A dataset from IMDb which involves 4 tables and 140416 Distinct Movies representing movie characteristics such as `genre`, `year`, `runtime`, `director`.
 * A dataset from The Numbers which involves `production_budget` as well as `gross` information of 5698 distinct movies
 
@@ -55,8 +56,8 @@ For the highest Roi and Profit target **120-140 min** length for the least risk
 * Gather more information about Microsoft’s allocated budget to be able to provide more sensitive suggestions.
 
 ***
-* The full analysis in the Jupyter Notebook - MovieProject_Notebook.ipynb. 
-* Summary of the findings are in the presentation.pdf. 
+* The full analysis in the [jupyter notebook](https://github.com/erdemiraysu/Movies_EDA_Project1/blob/master/MovieProject_Notebook.ipynb). 
+* Summary of the findings are in the [presentation](https://github.com/erdemiraysu/Movies_EDA_Project1/blob/master/Presentation.pdf). 
 
 ## Repository Structure
     .
