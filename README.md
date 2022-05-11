@@ -31,8 +31,8 @@ In the folder [zippedData](https://github.com/erdemiraysu/Movies_EDA_Project1/tr
 WHAT GENRES OF MOVIES TO MAKE?
 ![Barplot_RoibyBudget_2](https://user-images.githubusercontent.com/61121277/167764190-3d3c98ea-467d-4f43-af94-1fe03a88f232.png)
 ![Barplot_RoibyBudget_4](https://user-images.githubusercontent.com/61121277/167764199-a1bfa278-e86c-43ba-ad83-46d8816ec952.png)
-* With low-medium budget ($4.5-16M), make movies of Mystery and Horror. They bring more than 300% ROI but about $25-30M in profit.
-* With high budget (>$40M), make movies of Animation, Adventure and Sci-Fi. They bring close to 200% ROI but close to $200-250 M in profit.
+* With low budget ($4.5-16M), make movies of **Mystery** and **Horror**. They bring more than **300%** ROI and **$25-30M** in profit.
+* With high budget (>$40M), make movies of **Animation**, **Adventure** and **Sci-Fi**. They bring close to **200%** ROI but **$200-250 M** in profit.
 
 ***
 WHEN TO RELEASE THE MOVIE?
