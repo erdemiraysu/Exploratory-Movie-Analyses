@@ -27,5 +27,11 @@ In the folder zippedData you will see:
 
 ## Results
 ***
+* With low-medium budget ($4.5-16M), make movies of Mystery and Horror. They bring close to 300% ROI but about 20-25M $ in profit
+* With high budget (>$40M), make movies of Animation, Adventure and Sci-Fi. They bring close to 200% ROI but about 200-250 M $ in profit
+![image](https://user-images.githubusercontent.com/61121277/167764440-28e26fc9-fa91-487d-b8b9-9ff96c99deca.png)
+![image](https://user-images.githubusercontent.com/61121277/167764375-bcabd23b-eded-47f3-a99f-accb3d248288.png)
 ![Barplot_RoibyBudget_2](https://user-images.githubusercontent.com/61121277/167764190-3d3c98ea-467d-4f43-af94-1fe03a88f232.png)
 ![Barplot_RoibyBudget_4](https://user-images.githubusercontent.com/61121277/167764199-a1bfa278-e86c-43ba-ad83-46d8816ec952.png)
+
+
