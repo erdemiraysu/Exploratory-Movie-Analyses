@@ -56,7 +56,7 @@ For the highest Roi and Profit target **120-140 min** length for the least risk
 * Gather more information about Microsoft’s allocated budget to be able to provide more sensitive suggestions.
 
 ***
-* The full analysis is in the [jupyter notebook](https://github.com/erdemiraysu/Movies_EDA_Project1/blob/master/MovieProject_Notebook.ipynb). The pdf version of the same notebook is [here](https://github.com/erdemiraysu/Movies_EDA_Project1/blob/master/MovieProject_Notebook.pdf)
+* The full analysis is in the [jupyter notebook](https://github.com/erdemiraysu/Movies_EDA_Project1/blob/master/MovieProject_Notebook.ipynb). The pdf version of the same notebook is [here](https://github.com/erdemiraysu/Movies_EDA_Project1/blob/master/MovieProject_Notebook.pdf). 
 * Summary of the main findings are in the [presentation](https://github.com/erdemiraysu/Movies_EDA_Project1/blob/master/Presentation.pdf). 
 
 ## Repository Structure
