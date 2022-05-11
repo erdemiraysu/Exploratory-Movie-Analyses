@@ -63,7 +63,8 @@ For the highest Roi and Profit target **120-140 min** length for the least risk
     .
     ├── images 
     ├── zippedData 
-    ├── MovieProject_Notebook.ipynb                        
+    ├── MovieProject_Notebook.ipynb     
+    ├── MovieProject_Notebook.pdf 
     ├── presentation.pdf                                             
     ├── README.md 
     └── movie_data_erd.jpeg   
