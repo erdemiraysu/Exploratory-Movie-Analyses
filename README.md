@@ -52,6 +52,7 @@ For the highest Roi and Profit target **120-140 min** length for the least risk
 ## Limitations and Improvements
 ***
 * Small sample size - due to lack of budget and gross information. Perform API calls or wed scraping to increase sample size. 
+* The analysis includes older movies. Either normalizing the gross and budget based on year or removing older movies from the list would have been meaningful.
 * Movie names not coded the same way in different datasets - perform a more rigorous cleaning.
 * Gather more information about Microsoft’s allocated budget to be able to provide more sensitive suggestions.
 
