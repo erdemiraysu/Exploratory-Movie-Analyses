@@ -48,7 +48,7 @@ WHEN TO RELEASE THE MOVIE?
 ***
 HOW LONG SHOULD THE MOVIE BE?
 ![Barplot_RuntimeMinutes](https://user-images.githubusercontent.com/61121277/168383948-23831d24-eb6c-4a90-9a31-584de37f5d91.png)
-For the highest Roi and Profit target **120-160 min** length for the least risk.
+For the highest Roi and Profit as well as the least risk target **120-160 min** length. This is  a bit longer than 2 hours. 
 
 ## Limitations and Improvements
 ***
