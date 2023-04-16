@@ -1,4 +1,5 @@
-# MOVIE INVESTIGATIONS FOR MICROSOFT
+# Exploratory Movie Analyses for Microsoft:
+
 ***
 ## Overview
 This project analyzes movie data to provide insights and recommendations about the kind of movies Microsoft should make for their new movie studio.
