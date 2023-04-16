@@ -62,7 +62,7 @@ For the highest Roi and Profit as well as the least risk target **120-160 min**
 * Summary of the main findings are in the [presentation](https://github.com/erdemiraysu/Movies_EDA_Project1/blob/master/Presentation.pdf). 
 
 ## Repository Structure
-    .
+    
     ├── images                          Images folder, containing all referenced image files
     ├── zippedData                      Data folder, included in this repository
     ├── MovieProject_Notebook.ipynb     Main Jupyter notebook, contains analysis
