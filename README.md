@@ -71,3 +71,7 @@ For the highest Roi and Profit as well as the least risk target **120-160 min**
     ├── README.md                       The top-level README
     └── movie_data_erd.jpeg             Image for the organization of IMDB data in SQLite
 
+## Contact Info:
+* Email: erdemiraysu@gmail.com
+* GitHub: [@erdemiraysu](https://github.com/erdemiraysu/)
+* [LinkedIn](https://www.linkedin.com/in/aysuerdemir)
