@@ -62,11 +62,11 @@ For the highest Roi and Profit as well as the least risk target **120-160 min**
 
 ## Repository Structure
     .
-    ├── images 
-    ├── zippedData 
-    ├── MovieProject_Notebook.ipynb     
-    ├── MovieProject_Notebook.pdf 
-    ├── presentation.pdf                                             
+    ├── images                          Images folder, containing all referenced image files
+    ├── zippedData                      Data folder, which is not included in this repository
+    ├── MovieProject_Notebook.ipynb     Main Jupyter notebook, contains analysis
+    ├── MovieProject_Notebook.pdf       Pdf version of main Jupyter notebook
+    ├── presentation.pdf                PDF Version of project presentation                             
     ├── README.md 
     └── movie_data_erd.jpeg   
 
