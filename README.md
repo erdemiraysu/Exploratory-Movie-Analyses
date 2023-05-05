@@ -1,4 +1,4 @@
-# Exploratory Movie Analyses for Microsoft:
+# Exploring Movie Data for Profitability for a New Movie Studio:
 
 ***
 ## Overview
